@@ -1,4 +1,4 @@
-👋 Hi, I'm Patrick Mulikausea
+👋 Hi, I'm Patrick Mulikuza
 
 I'm a Computer Science sophomore at Whitman College exploring how code, data, and design can work together to solve real problems.
 I enjoy building interactive visualizations, experimenting with AI, and bringing ideas to life through full-stack projects.
