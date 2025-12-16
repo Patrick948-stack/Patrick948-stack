@@ -54,4 +54,4 @@ Exploring responsive layouts, clean UI/UX, and integrating real functional compo
 
 💼 LinkedIn www.linkedin.com/in/mulikuzap
 
-✉️ Email patrickmulikuza948
+✉️ Email patrickmulikuza948@gmail.com
