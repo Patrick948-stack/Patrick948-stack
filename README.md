@@ -15,7 +15,7 @@ I enjoy building interactive visualizations, experimenting with AI, and bringing
 
 Languages: Python, C++, JavaScript, HTML/CSS, Haskell (beginner)
 Libraries & Tools: Matplotlib, Plotly.js, Turtle, Git/GitHub, VS Code
-Concepts: Data visualization, 3D plotting, OOP, basic algorithms & data structures
+Concepts: Data visualisation, 3D plotting, OOP, basic algorithms & data structures
 Learning in progress: Full-stack web apps, frontend design, browser-based interactivity
 
 🧩 Projects
@@ -40,7 +40,7 @@ Plots a high-resolution Mount Everest elevation dataset as a 3D terrain map, dem
 
 Built the full frontend chat interface for Whitman AI, a campus-focused chatbot.
 Created a responsive UI with message bubbles, typing indicators, and DOM-based rendering.
-Also helped collect and organize training data for the underlying machine learning model.
+Also helped collect and organise training data for the underlying machine learning model.
 
 🎼 Walla Walla Symphony Web App (In Progress) – Tickets & Merch Platform
 
@@ -52,6 +52,6 @@ Exploring responsive layouts, clean UI/UX, and integrating real functional compo
 
 🌐 GitHub: https://github.com/Patrick948-stack
 
-💼 LinkedIn (if you want to add later)
+💼 LinkedIn www.linkedin.com/in/mulikuzap
 
-✉️ Email (optional)
+✉️ Email patrickmulikuza948
